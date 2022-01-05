@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container-fluid{
+    background-color:  #a8eed1;
+    padding: 0px;
+}
+.i{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    background-color: #333;
+}
+.nav-link{
+    color: white;
+    cursor: pointer;
+}
+.footer{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+}
+.row{
+    margin-top: 10px;
+}
+
+.contactItem{
+    margin: 20px;
+}
+.icon{
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+}
+form{
+    margin-right: 20px;
+}
